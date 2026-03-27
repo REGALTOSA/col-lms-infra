@@ -22,7 +22,7 @@ git push -uf origin main
 
 ## Integrate with your tools
 
-* [Set up project integrations](http://15.206.230.62/col-lms-project/infra/terraforf-files/-/settings/integrations)
+* [Set up project integrations](http://15.206.230.62/col-lms-project/infra/terraforfm-files/-/settings/integrations)
 
 ## Collaborate with your team
 
